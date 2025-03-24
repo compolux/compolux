@@ -7,6 +7,13 @@
 <p>Born in 1985 in Milan, Italy.</p>
 <p>Over the past years I've worked as a Field Support Specialist, overseeing the installation and providing customer training for advanced industrial digital radiography solutions.</p>
 <p>Based in Cologne, Germany.</p>
+<br>
+
+IT skills in progress:
+* Networking
+* Virtualisation
+* Server administration
+
 <br><br>
 
 ## Digital Indipendence.
